@@ -1,0 +1,72 @@
+[
+    {
+        "startTimestamp": "2023-04-28T08:00:00",
+        "endTimestamp": "2023-04-28T08:30:00",
+        "bpm": 80
+    },
+    {
+        "startTimestamp": "2023-04-28T12:00:00",
+        "endTimestamp": "2023-04-28T12:30:00",
+        "bpm": 90
+    },
+    {
+        "startTimestamp": "2023-04-28T18:00:00",
+        "endTimestamp": "2023-04-28T18:30:00",
+        "bpm": 100
+    },
+    {
+        "startTimestamp": "2023-04-28T21:00:00",
+        "endTimestamp": "2023-04-28T21:30:00",
+        "bpm": 110
+    },
+    {
+        "startTimestamp": "2023-04-29T08:00:00",
+        "endTimestamp": "2023-04-29T08:30:00",
+        "bpm": 70
+    },
+    {
+        "startTimestamp": "2023-04-29T12:00:00",
+        "endTimestamp": "2023-04-29T12:30:00",
+        "bpm": 120
+    },
+    {
+        "startTimestamp": "2023-04-29T18:00:00",
+        "endTimestamp": "2023-04-29T18:30:00",
+        "bpm": 110
+    },
+    {
+        "startTimestamp": "2023-04-29T21:00:00",
+        "endTimestamp": "2023-04-29T21:30:00",
+        "bpm": 80
+    },
+	{
+        "startTimestamp": "2023-04-30T18:00:00",
+        "endTimestamp": "2023-04-30T18:30:00",
+        "bpm": 100
+    },
+    {
+        "startTimestamp": "2023-04-30T21:00:00",
+        "endTimestamp": "2023-04-28T21:30:00",
+        "bpm": 110
+    },
+    {
+        "startTimestamp": "2023-04-30T08:00:00",
+        "endTimestamp": "2023-04-29T08:30:00",
+        "bpm": 70
+    },
+    {
+        "startTimestamp": "2023-04-30T12:00:00",
+        "endTimestamp": "2023-04-29T12:30:00",
+        "bpm": 120
+    },
+    {
+        "startTimestamp": "2023-04-30T18:00:00",
+        "endTimestamp": "2023-04-29T18:30:00",
+        "bpm": 110
+    },
+    {
+        "startTimestamp": "2023-04-30T21:00:00",
+        "endTimestamp": "2023-04-29T21:30:00",
+        "bpm": 80
+    }
+]
